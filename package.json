@@ -4,6 +4,7 @@
   "description": "A simple chat via commandline using pubnub",
   "main": "chat.js",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "pubnub": "^3.15.1"
   },
   "devDependencies": {},
